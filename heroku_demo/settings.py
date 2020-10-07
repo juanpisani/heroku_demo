@@ -25,7 +25,7 @@ SECRET_KEY = 'fv@n^azy_e8k-&&y+$j_*4p)sihacmr5v4q27#)txb0%o41hrf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gentle-gorge-35973.herokuapp.com']
 
 
 # Application definition
